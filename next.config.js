@@ -4,7 +4,7 @@
  * @type {import('next').NextConfig}
  **/
 const nextConfig = {
-  basePath: "/next-github-pages-test",
+  basePath: "",
 };
 
 module.exports = nextConfig;
